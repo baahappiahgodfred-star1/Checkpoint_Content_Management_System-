@@ -415,3 +415,6 @@ For support, email support@educms.com or open an issue on GitHub.
 
 **Last Updated:** June 2026
 **Version:** 1.0.0
+
+## Author
+**Godfred Appiah Baah**
